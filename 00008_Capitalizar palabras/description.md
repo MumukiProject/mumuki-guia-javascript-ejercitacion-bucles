@@ -1,4 +1,4 @@
-> Definí una función `capitalizarPalabras` tome como argumento un string `string` y devuelva un string donde cada palabra está capitalizada (con la primera letra ma´yuscula). Dejar las demás letras como están.
+> Definí una función `capitalizarPalabras` tome como argumento un string `string` y devuelva un string donde cada palabra está capitalizada (con la primera letra mayúscula). Dejar las demás letras como están.
 >
 ```javascript
 ム capitalizarPalabras('Esto es un título')
