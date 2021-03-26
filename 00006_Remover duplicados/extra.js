@@ -1,8 +1,4 @@
-function contiene(numero,array){
-  return array.includes(numero);  
-}
-
-  Object.defineProperty(Array.prototype, 'includes', {
+ Object.defineProperty(Array.prototype, 'includes', {
     value: function(searchElement, fromIndex) {
 
       if (this == null) {
@@ -51,3 +47,7 @@ function contiene(numero,array){
     }
   });
 }/*@elipsis-for-student>*/
+
+function contiene(numero,array){
+  return array.includes(numero);  
+}
