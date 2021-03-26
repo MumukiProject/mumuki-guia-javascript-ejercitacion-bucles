@@ -1,1 +1,1 @@
-Tal vez te sea útil la función `contiene` que definiste anteriormente, podés invocarla sin volver a definirla.
+En la `</>Biblioteca` tenés disponible la función `contiene` que definiste anteriormente, podés invocarla sin volver a definirla.
