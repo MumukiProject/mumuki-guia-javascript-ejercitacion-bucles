@@ -1,4 +1,4 @@
-> Definí una función `repetir` que tome como argumento un valor `valor` y un número entero `cantidad`, y devuelva una array con `valor` repetido `cantidad` de veces.
+> Definí una función `repetir` que tome un valor `valor` y un número entero `cantidad`, y devuelva una array con `valor` repetido `cantidad` de veces. :repeat:
 >
 ```javascript
 ム repetir('lovelace', 3)
