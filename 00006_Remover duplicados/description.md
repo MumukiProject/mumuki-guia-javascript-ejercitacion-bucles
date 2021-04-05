@@ -1,4 +1,4 @@
-> Definí una función `removerDuplicados` que tome como argumento un array `array` y que devuelva un array con los mismos valores de `array` pero sin valores duplicados.
+> Definí una función `removerDuplicados` que tome por parámetros un array `array` y que devuelva un array con los mismos valores de `array` pero sin valores duplicados.
 >
 ```javascript
 ム removerDuplicados([1, 1, 1])

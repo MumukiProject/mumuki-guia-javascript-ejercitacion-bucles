@@ -1,4 +1,4 @@
-> Definí una función `repetirLetras` que tome como argumento un string `palabra` y un número entero `cantidad`, y devuelva una string donde cada letra de `palabra` esté repetida `cantidad` de veces.
+> Definí una función `repetirLetras` que reciba como argumento un string `palabra` y un número entero `cantidad`, y devuelva una string donde cada letra de `palabra` esté repetida `cantidad` de veces.
 >
 ```javascript
 ム repetirLetras('hola', 2)

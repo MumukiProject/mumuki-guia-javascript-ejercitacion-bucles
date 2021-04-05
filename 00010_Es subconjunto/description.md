@@ -1,4 +1,4 @@
-> Definí una función `esSubconjunto` que tome como argumento dos arrays, `subconjunto` y `conjunto`, y devuelva `true` si `subconjunto` es realmente subconjunto de `conjunto`, es decir, si todos los valores de `subconjunto` están en `conjunto`.
+> Definí una función `esSubconjunto` que tome por parámetro dos arrays, `subconjunto` y `conjunto`, y devuelva `true` si `subconjunto` es realmente subconjunto de `conjunto`, es decir, si todos los valores de `subconjunto` están en `conjunto`.
 >
 ```javascript
 ム esSubconjunto([1], [1, 2, 3])
